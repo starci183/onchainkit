@@ -1,10 +1,16 @@
 # Changelog
 
+## 0.28.7
+
+### Patch Changes
+
+- c14ca17: - **fix**: `Wallet` components svg render. By @cpcramer #1011
+
 ## 0.28.6
 
 ### Patch Changes
 
-- 2169905: - **fix**: exported `TransactionResponse` type. By @abcrane123 #1007
+- **fix**: exported `TransactionResponse` type. By @abcrane123 #1007 2169905
 
 ## 0.28.5
 
